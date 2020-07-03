@@ -1,0 +1,57 @@
+.tf-advantages {
+    padding: 100px 0;
+}
+.tf-container {
+}
+.tf-advantages__wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -25px;
+}
+.tf-advantages__item {
+    padding: 0 25px;
+    flex: 0 0 25%;
+    max-width: 25%;
+    text-align: center;
+}
+.tf-advantages__icon {
+    font-size: 80px;
+    color: #6200ea;
+    margin-bottom: 50px;
+}
+
+.tf-advantages__title h3 {
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1;
+    margin-bottom: 10px;
+
+}
+.tf-advantages__text {  
+}   
+/* colored advanteges */
+.tf-advantages_colored .tf-advantages__item {
+    padding: 50px;
+    margin-left: 30px;
+    flex: 0 0 calc(25% - 30px);
+    max-width: calc(25% - 30px); 
+    color: #f5f5f5;      
+    border-radius: 10px;
+}
+.tf-advantages_colored .tf-advantages__item:nth-child(odd) {
+    background-color: #6200ea;
+}
+.tf-advantages_colored .tf-advantages__item:nth-child(even) {
+    background-color: #fca70c;
+}
+.tf-advantages_colored .tf-advantages__wrapper {
+    margin: 0;
+    margin-left: -30px;
+}
+.tf-advantages_colored .tf-advantages__icon {
+    color: #f5f5f5;
+}
+.tf-advantages_colored .tf-advantages__text {
+font-size: 20px;
+}
