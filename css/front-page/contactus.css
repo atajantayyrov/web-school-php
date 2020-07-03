@@ -1,12 +1,50 @@
-body{
-    background-color: black;
-}
-
 .tf-contact-us{
+  position: relative;
   background-image: url("../../img/contact-us-bg.jpg");
   height: 600px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  margin-bottom: 1000px;
+  overflow: hidden;
 }
+.tf-contact-us::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5);
+}
+.tf-contact-us__bg{
+  position: relative;
+}
+
+.tf-contact-us__bg::before{
+  content: "";
+  position: absolute;
+  top: -400px;
+  left: -400px;
+  right: auto;
+  bottom: auto;
+  height: 800px;
+  width: 800px;
+  border-radius: 100%;
+  background-color: rgba(252,167,12,0.3);
+}
+.tf-contact-us__bg::after{
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: auto;
+  right: -400px;
+  bottom: -400px;
+  height: 800px;
+  width: 800px;
+  border-radius: 100%;
+  background-color: rgba(252,167,12,0.3);
+}
+
+
