@@ -9,6 +9,10 @@
   margin-bottom: 1000px;
   overflow: hidden;
 }
+.tf-contact-us .tf-container{
+  height: 100%;  
+}
+
 .tf-contact-us::before{
   content: "";
   position: absolute;
@@ -20,6 +24,7 @@
 }
 .tf-contact-us__bg{
   position: relative;
+  height: 100%;
 }
 
 .tf-contact-us__bg::before{
@@ -37,14 +42,44 @@
 .tf-contact-us__bg::after{
   content: "";
   position: absolute;
-  top: 100%;
+  top: auto;
   left: auto;
   right: -400px;
   bottom: -400px;
   height: 800px;
   width: 800px;
   border-radius: 100%;
-  background-color: rgba(252,167,12,0.3);
+  background-color: rgba(98,0,234,0.4);
+}
+.tf-contact-us__row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+  height: 100%;
+
+}
+.tf-contact-us__col {
+  flex: 0 0 50%;
+  max-width: 50%;
+  padding: 0 15px;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+}
+.tf-contact-us__col h2 {
+  font-size: 40px;
+  font-family: "PT Sans Narrow", sans-serif;
+  color: #ffffff;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.tf-contact-us__col h2 span {
+  display: block;
+  font-size: 60px;
+  background-color: #6200ea;
+  border-radius: 50px;
+  padding: 0 30px;
 }
 
 
