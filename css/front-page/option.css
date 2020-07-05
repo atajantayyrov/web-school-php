@@ -1,0 +1,29 @@
+.tf-option {
+}
+.tf-container {
+}
+.tf-option__text {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 90px;
+}
+.tf-option__text h2 {
+  font-size: 60px;
+  font-family: "Narrow Bold", "PT Sans";
+  color: #2c2c2c;
+  text-transform: uppercase;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+}
+.tf-option__text p {
+  font-size: 24px;
+  font-family: "Pt Sans", "Regular";
+  color: #2c2c2c;
+}
+.tf-option__table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
