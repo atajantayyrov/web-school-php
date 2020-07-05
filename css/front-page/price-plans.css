@@ -1,0 +1,73 @@
+.tf-price-plans {
+  overflow: hidden;
+  background-color: #f5f5f5;
+}
+.tf-container {
+}
+.tf-price-plans__title {
+  margin: auto;
+  position: relative;
+  text-align: center;
+  padding: 30px 0;
+  color: #ffffff;
+  z-index: 2;
+}
+.tf-price-plans__title::after {
+  content: "";
+  position: absolute;
+  top: auto;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 800px;
+  width: 800px;
+  border-radius: 100%;
+  background-color: #6200ea;
+  margin: auto;
+  z-index: 1;
+}
+.tf-price-plans__title h2 {
+  margin: 0;
+  margin-bottom: 5px;
+  font-size: 60px;
+  font-family: "PT Sans Narrow", sans-serif;
+  color: #ffffff;
+  text-transform: uppercase;
+  line-height: 1;
+}
+.tf-price-plans__title i {
+  font-size: 22px;
+}
+.tf-price-plans__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+.tf-price-plan {
+  background-color: #ffffff;
+  flex: 0 0 25%;
+  max-width: 25%;
+  padding: 0 15px;
+}
+.tf-price-plan__price {
+  text-align: center;
+  justify-items: center;
+  padding-top: 46px;
+  padding-bottom: 5px;
+}
+
+.tf-price-plan__amount {
+  font-size: 60px;
+  font-family: ;
+  height: 78px;
+  color: #2c2c2c;
+  text-transform: uppercase;
+}
+.tf-price-plan__currency {
+}
+.tf-price-plan__title {
+}
+.tf-price-plan__list {
+}
+.tf-price-plan__button {
+}

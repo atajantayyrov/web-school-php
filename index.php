@@ -25,6 +25,7 @@
       <?php include 'web-parts/video-about-us.php'; ?>
       <?php include 'web-parts/projects.php'; ?>
       <?php include 'web-parts/contact-us.php'; ?>
+      <?php include 'web-parts/price-plans.php'; ?>
     </main>
   </body>
 </html>
