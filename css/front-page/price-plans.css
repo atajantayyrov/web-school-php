@@ -1,6 +1,7 @@
 .tf-price-plans {
   overflow: hidden;
   background-color: #f5f5f5;
+  padding-bottom: 100px;
 }
 .tf-container {
 }
@@ -10,7 +11,8 @@
   text-align: center;
   padding: 30px 0;
   color: #ffffff;
-  z-index: 2;
+  z-index: 1;
+  margin-bottom: -80px;
 }
 .tf-price-plans__title::after {
   content: "";
@@ -24,7 +26,7 @@
   border-radius: 100%;
   background-color: #6200ea;
   margin: auto;
-  z-index: 1;
+  z-index: -1;
 }
 .tf-price-plans__title h2 {
   margin: 0;
@@ -41,33 +43,72 @@
 .tf-price-plans__wrapper {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 -15px;
+  margin-right: -30px;
 }
 .tf-price-plan {
+  text-align: center;
   background-color: #ffffff;
-  flex: 0 0 25%;
-  max-width: 25%;
-  padding: 0 15px;
+  flex: 0 0 calc(25% - 30px);
+  max-width: calc(25% - 30px);
+  margin-right: 30px;
+  padding: 50px 80px;
+  border-radius: 10px;
+  box-shadow: 0 3px 16px rgba(0, 0, 0, 0.05);
 }
 .tf-price-plan__price {
-  text-align: center;
-  justify-items: center;
-  padding-top: 46px;
-  padding-bottom: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .tf-price-plan__amount {
+  display: flex;
+  align-items: center;
+  line-height: 1;
   font-size: 60px;
-  font-family: ;
   height: 78px;
   color: #2c2c2c;
   text-transform: uppercase;
+  font-weight: 700;
+  margin-right: 5px;
 }
 .tf-price-plan__currency {
+  font-size: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "PT Sans Narrow", sans-serif;
+  height: 44px;
+  width: 44px;
+  border-radius: 100%;
+  background-color: #fca70c;
+  color: #ffffff;
 }
-.tf-price-plan__title {
+.tf-price-plan__title h3 {
+  font-size: 22px;
+  margin: 0;
+  margin-bottom: 50px;
+  font-weight: 400;
 }
 .tf-price-plan__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 60px;
+  text-align: left;
+}
+.tf-price-plan__list li {
+  font-size: 18px;
+  margin-bottom: 7px;
+}
+.tf-price-plan__list li::before {
+  content: "+ ";
 }
 .tf-price-plan__button {
+  background-color: #2c2c2c;
+  padding: 5px 40px;
+  border-radius: 20px;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-decoration: none;
 }
