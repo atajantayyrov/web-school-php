@@ -8,7 +8,7 @@
         <table>
             <tr>
                 <th></th>
-                <th>TF</th>
+                <th><span>T</span><span>F</span></th>
                 <th>Başga Kompaniýa</th>
                 <th>Başga Kompaniýa</th>
             </tr>

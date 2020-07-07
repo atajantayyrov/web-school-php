@@ -28,6 +28,18 @@
   align-items: center;
   justify-content: center;
 }
+.tf-option__table th span {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 50px;
+}
+.tf-option__table th span:nth-child(1) {
+  color: #6200ea;
+}
+
+.tf-option__table th span:nth-child(2) {
+  color: #fca70c;
+}
+
 .tf-option__table th {
   font-size: 24px;
   margin: 0;
