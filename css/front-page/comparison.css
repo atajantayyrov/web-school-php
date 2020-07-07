@@ -1,0 +1,75 @@
+.tf-comparison {
+  padding: 90px 0 120px 0;
+}
+.tf-container {
+}
+.tf-comparison__text {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.tf-comparison__text h2 {
+  font-size: 60px;
+  font-family: "Narrow Bold", "PT Sans";
+  color: #2c2c2c;
+  text-transform: uppercase;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+}
+.tf-comparison__text p {
+  font-size: 24px;
+  font-family: "Pt Sans", "Regular";
+  color: #2c2c2c;
+}
+.tf-comparison__table {
+  padding: 70px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tf-comparison__table td,
+.tf-comparison__table th {
+  text-align: center;
+  min-width: 300px;
+  border-bottom: 1px solid #dddddd;
+  padding: 10px;
+}
+.tf-comparison__table tr td:first-child {
+  text-align: left;
+}
+
+.tf-comparison__table .tf-table__logo span {
+  font-weight: 700;
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 50px;
+}
+.tf-comparison__table .tf-table__logo span:nth-child(1) {
+  color: #6200ea;
+}
+
+.tf-comparison__table .tf-table__logo span:nth-child(2) {
+  color: #fca70c;
+}
+
+.tf-comparison__table th {
+  font-size: 24px;
+  margin: 0;
+  padding: 0;
+  font-weight: 300;
+}
+.tf-comparison__table td {
+  font-size: 22px;
+  margin: 0;
+}
+.tf-comparison__table td span {
+  display: block;
+  line-height: 1;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.tf-comparison__table td span:nth-child(1) {
+  font-size: 22px;
+}
