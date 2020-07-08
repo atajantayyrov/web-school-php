@@ -7,7 +7,7 @@
                         <p> Etiam feugiat pellentesque odio, non placerat felis sagittis vitae. Praesent tristique sagittis urna et vestibulum. Suspendisse nulla libero, posuere non tristique quis, pretium sed justo.</p>
                     </div>
             <div class="tf-our-team__item">
-                <div class="tf-our-time__main">
+                <div class="tf-our-team__main">
                 <div class="tf-our-team__img">
                     <img src="img/programmer.jpg" alt="img1" />   
                 </div>
@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="tf-our-team__item">
-                <div class="tf-our-time__main">
+                <div class="tf-our-team__main">
                 <div class="tf-our-team__img">
                     <img src="img/programmer.jpg" alt="img1" />   
                 </div>
@@ -45,7 +45,7 @@
                 </div>
             </div>
             <div class="tf-our-team__item">
-                <div class="tf-our-time__main">
+                <div class="tf-our-team__main">
                 <div class="tf-our-team__img">
                     <img src="img/programmer.jpg" alt="img1" />   
                 </div>
@@ -64,7 +64,7 @@
                 </div>
             </div>
             <div class="tf-our-team__item">
-                <div class="tf-our-time__main">
+                <div class="tf-our-team__main">
                 <div class="tf-our-team__img">
                     <img src="img/programmer.jpg" alt="img1" />   
                 </div>

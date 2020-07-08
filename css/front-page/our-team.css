@@ -1,13 +1,13 @@
 .tf-our-team {
   position: relative;
   background-image: url("../../img/programmer-bg.jpg");
-  height: 600px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
   z-index: 1;
+  padding: 100px 0;
 }
 .tf-our-team__bg {
 }
@@ -34,13 +34,13 @@
   max-width: 25%;
   text-align: center;
 }
-.tf-our-team__main {
+/* .tf-our-team__main {
   display: flex;
   flex-wrap: wrap;
   text-align: center;
   align-items: center;
   justify-content: center;
-}
+} */
 
 .tf-our-team__text {
   display: flex;
@@ -56,6 +56,7 @@
   font-family: "PT Sans Narrow", sans-serif;
   font-weight: bold;
   margin-bottom: 0;
+  margin-top: 0;
 }
 .tf-our-team__text p {
   font-size: 24px;
@@ -63,6 +64,7 @@
   text-align: center;
   margin: 0;
   margin-bottom: 80px;
+  padding: 0 200px;
 }
 .tf-our-team__img {
   display: flex;
@@ -71,11 +73,9 @@
   justify-content: center;
 }
 .tf-our-team__img img {
-  width: 200px;
-  height: 156px;
-  border-radius: 10px;
-  margin: 0;
-  padding: 0;
+  width: 256px;
+  height: 256px;
+  border-radius: 100px;
 }
 
 .tf-our-team__name {
@@ -101,4 +101,5 @@
 .tf-our-team__icon a {
   font-size: 16px;
   color: #ffffff;
+  text-decoration: none;
 }
