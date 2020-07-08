@@ -28,7 +28,6 @@
       <?php include 'web-parts/price-plans.php'; ?>
       <?php include 'web-parts/comparison.php'; ?>
       <?php include 'web-parts/footer.php'; ?>
-
     </main>
   </body>
 </html>
