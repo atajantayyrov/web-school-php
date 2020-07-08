@@ -14,15 +14,15 @@
             </div>
             <div class="tf-footer__icon">
                 <div class="tf-footer__icon-wrapper">
-                <a href="#!"><i class="fa fa-instagram" aria-hidden="true"></i>
+                <a href="#!"><i class="fa fa-whatsapp" aria-hidden="true"></i>
+                </a>
+                <a href="#!"><i class="fa fa-youtube-play" aria-hidden="true"></i>
                 </a>
                 <a href="#!"><i class="fa fa-instagram" aria-hidden="true"></i>
                 </a>
-                <a href="#!"><i class="fa fa-instagram" aria-hidden="true"></i>
+                 <a href="#!"><i class="fa fa-facebook" aria-hidden="true"></i>
                 </a>
-                 <a href="#!"><i class="fa fa-instagram" aria-hidden="true"></i>
-                </a>
-                <a href="#!"><i class="fa fa-instagram" aria-hidden="true"></i>
+                <a href="#!"><i class="fa fa-twitter" aria-hidden="true"></i>
                 </a>
                 </div>
             </div>
