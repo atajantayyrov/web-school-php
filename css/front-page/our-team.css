@@ -1,0 +1,104 @@
+.tf-our-team {
+  position: relative;
+  background-image: url("../../img/programmer-bg.jpg");
+  height: 600px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  z-index: 1;
+}
+.tf-our-team__bg {
+}
+.tf-our-team::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+.tf-our-team .tf-container {
+  height: 100%;
+}
+.tf-our-team__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tf-our-team__item {
+  flex: 0 0 25%;
+  max-width: 25%;
+  text-align: center;
+}
+.tf-our-team__main {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.tf-our-team__text {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.tf-our-team__text h2 {
+  color: #ffffff;
+  font-size: 60px;
+  text-transform: uppercase;
+  font-family: "PT Sans Narrow", sans-serif;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.tf-our-team__text p {
+  font-size: 24px;
+  color: #ffffff;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 80px;
+}
+.tf-our-team__img {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.tf-our-team__img img {
+  width: 200px;
+  height: 156px;
+  border-radius: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.tf-our-team__name {
+}
+.tf-our-team__name h2 {
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+.tf-our-team__name p {
+  font-size: 16px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.tf-our-team__icon {
+}
+.tf-our-team__icon a {
+  font-size: 16px;
+  color: #ffffff;
+}

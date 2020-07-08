@@ -26,6 +26,8 @@
       <?php include 'web-parts/projects.php'; ?>
       <?php include 'web-parts/contact-us.php'; ?>
       <?php include 'web-parts/price-plans.php'; ?>
+      <?php include 'web-parts/our-team.php'; ?>
+
       <?php include 'web-parts/comparison.php'; ?>
       <?php include 'web-parts/footer.php'; ?>
     </main>

@@ -13,6 +13,7 @@
                 <p>Etiam feugiat pellentesque odio, non placerat felis sagittis vitae. Praesent tristique sagittis urna et vestibulum. Suspendisse nulla libero, posuere non tristique quis, pretium sed justo.</p>
             </div>
             <div class="tf-footer__icon">
+                <div class="tf-footer__icon-wrapper">
                 <a href="#!"><i class="fa fa-instagram" aria-hidden="true"></i>
                 </a>
                 <a href="#!"><i class="fa fa-instagram" aria-hidden="true"></i>
@@ -23,12 +24,12 @@
                 </a>
                 <a href="#!"><i class="fa fa-instagram" aria-hidden="true"></i>
                 </a>
+                </div>
             </div>
         </div>
     </div>
+</div>
 <div class="tf-copyrights">
     <p>Copyright © 2020</p>
-</div>
-
 </div>
 </footer>
