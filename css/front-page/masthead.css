@@ -81,8 +81,24 @@
   }
 }
 @media (max-width: 1300px) {
+  .tf-masthead {
+    height: 500px;
+  }
+  .tf-masthead__text {
+    flex: 0 0 50%;
+    max-width: 30%;
+  }
   .tf-masthead__text h1 {
     font-size: 45px;
+  }
+  .tf-masthead__img span {
+    height: 700px;
+    width: 700px;
+  }
+  .tf-masthead__img {
+    flex: 0 0 50%;
+    max-width: 60%;
+  }
 }
 @media (max-width: 1199px) {
 }

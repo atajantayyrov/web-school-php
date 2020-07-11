@@ -59,19 +59,22 @@
 @media (max-width: 1500px) {
   .tf-advantages_colored .tf-advantages__item {
     padding: 20px;
-    margin-left: 25px;
-    flex: 0 0 calc(25% - 25px);
-    max-width: calc(25% - 25px);
+    margin-left: 15px;
+    flex: 0 0 calc(25% - 15px);
+    max-width: calc(25% - 15px);
   }
   .tf-advantages_colored .tf-advantages__wrapper {
-    margin-left: -25px;
+    margin-left: -15px;
   }
 }
 @media (max-width: 1400px) {
 }
 @media (max-width: 1300px) {
   .tf-advantages_colored .tf-advantages__item {
-    padding: 0px;
+    padding: 14px;
+  }
+  .tf-advantages__icon {
+    margin-bottom: 20px;
   }
 }
 @media (max-width: 1199px) {

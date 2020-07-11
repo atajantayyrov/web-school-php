@@ -72,3 +72,25 @@
 .tf-comparison__table td span:nth-child(1) {
   font-size: 22px;
 }
+
+atajanaga,[11.07.20 07: 50] @media (max-width: 1670px) {
+
+}
+@media (max-width: 1500px) {
+}
+@media (max-width: 1400px) {
+}
+@media (max-width: 1300px) {
+  .tf-comparison__table td,
+  .tf-comparison__table th {
+    min-width: 100%;
+  }
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 575px) {
+}
