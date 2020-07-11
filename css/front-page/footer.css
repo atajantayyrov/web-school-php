@@ -2,8 +2,7 @@
   background-color: #353535;
   padding: 100px 0;
 }
-.tf-container {
-}
+
 .tf-footer__wrapper {
   display: flex;
   flex-wrap: wrap;
@@ -103,4 +102,31 @@
   text-align: center;
   color: #f5f5f5;
   margin: 0;
+}
+
+@media (max-width: 1670px) {
+}
+@media (max-width: 1500px) {
+}
+@media (max-width: 1400px) {
+  .tf-footer__icon-wrapper {
+    padding: 0 5px;
+  }
+}
+@media (max-width: 1300px) {
+  .tf-footer__logo-circle {
+    height: 260px;
+    width: 260px;
+  }
+  .tf-footer__logo span {
+    font-size: 164px;
+  }
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 575px) {
 }

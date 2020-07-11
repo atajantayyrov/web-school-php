@@ -8,11 +8,12 @@
               </video>
             </div>
             <div class="tf-video-about-us__content">
+
               <div class="tf-video-about-us__text">
                 <h2>biz hakda video</h2>
                 <p>Etiam feugiat pellentesque odio, non placerat felis sagittis vitae. Praesent tristique sagittis urna et vestibulum. Suspendisse nulla libero, posuere non tristique quis, pretium sed justo. Maecenas ornare venenatis velit, sed ullamcorper mi porttitor sed. Donec semper finibus dolor, nec fermentum enim bibendum sed. Aliquam dapibus velit augue, nec mollis sapien ullamcorper aliquam. Mauris eu erat in metus volutpat condimentum. Vestibulum vitae leo fermentum, rhoncus mi at, hendrerit lorem.</p>
-                <span></span>
               </div>
+              <span class="tf-video-about-us__circle"></span>
             </div>
           </div>
         </div>

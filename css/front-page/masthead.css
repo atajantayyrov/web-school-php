@@ -71,3 +71,24 @@
   transform: rotate(270deg);
   margin-left: 10px;
 }
+@media (max-width: 1670px) {
+}
+@media (max-width: 1500px) {
+}
+@media (max-width: 1400px) {
+  .tf-masthead__text h1 {
+    font-size: 50px;
+  }
+}
+@media (max-width: 1300px) {
+  .tf-masthead__text h1 {
+    font-size: 45px;
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 575px) {
+}

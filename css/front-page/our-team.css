@@ -58,6 +58,7 @@
   margin: 0;
   margin-bottom: 80px;
   padding: 0 200px;
+  /* 200px */
 }
 .tf-our-team__img {
   display: flex;
@@ -68,7 +69,7 @@
 .tf-our-team__img img {
   width: 256px;
   height: 256px;
-  border-radius: 100px;
+  border-radius: 100%;
 }
 
 .tf-our-team__name {

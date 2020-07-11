@@ -14,13 +14,6 @@ a {
   box-sizing: border-box;
 }
 
-.tf-container {
-  width: 1670px;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin: auto;
-}
-
 header {
   position: sticky;
   top: 0;
@@ -144,4 +137,24 @@ header {
 .tf-nav_button i {
   transform: rotate(270deg);
   font-size: 14px;
+}
+
+@media (max-width: 1670px) {
+}
+@media (max-width: 1500px) {
+}
+@media (max-width: 1400px) {
+}
+@media (max-width: 1300px) {
+  .tf-nav__link {
+    padding: 5px 10px;
+  }
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 575px) {
 }

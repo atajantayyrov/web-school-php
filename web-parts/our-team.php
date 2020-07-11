@@ -9,7 +9,7 @@
             <div class="tf-our-team__item">
                 <div class="tf-our-team__main">
                 <div class="tf-our-team__img">
-                    <img src="img/programmer.jpg" alt="img1" />   
+                    <img src="img/staff.png" alt="img1" />   
                 </div>
                     <div class="tf-our-team__name">
                         <h2>Atajan</h2>
@@ -28,7 +28,7 @@
             <div class="tf-our-team__item">
                 <div class="tf-our-team__main">
                 <div class="tf-our-team__img">
-                    <img src="img/programmer.jpg" alt="img1" />   
+                    <img src="img/staff.png" alt="img1" />   
                 </div>
                     <div class="tf-our-team__name">
                         <h2>Atajan</h2>
@@ -47,7 +47,7 @@
             <div class="tf-our-team__item">
                 <div class="tf-our-team__main">
                 <div class="tf-our-team__img">
-                    <img src="img/programmer.jpg" alt="img1" />   
+                    <img src="img/staff.png" alt="img1" />   
                 </div>
                     <div class="tf-our-team__name">
                         <h2>Atajan</h2>
@@ -66,7 +66,7 @@
             <div class="tf-our-team__item">
                 <div class="tf-our-team__main">
                 <div class="tf-our-team__img">
-                    <img src="img/programmer.jpg" alt="img1" />   
+                    <img src="img/staff.png" alt="img1" />   
                 </div>
                     <div class="tf-our-team__name">
                         <h2>Atajan</h2>
