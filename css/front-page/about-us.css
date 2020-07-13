@@ -76,3 +76,69 @@
   z-index: 1;
   position: relative;
 }
+
+@media (max-width: 1670px) {
+}
+@media (max-width: 1500px) {
+}
+@media (max-width: 1400px) {
+}
+@media (max-width: 1300px) {
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+  .tf-about-us__img {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .tf-about-us__img img {
+    width: 80%;
+  }
+  .tf-about-us__img span {
+    height: 690px;
+    width: 690px;
+    right: 570px;
+  }
+  .tf-about-us__text {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-top: 40px;
+  }
+  .tf-about-us__text h2 {
+    font-size: 50px;
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  .tf-about-us__img span {
+    height: 479px;
+    width: 479px;
+    right: 430px;
+  }
+
+  .tf-about-us__img img {
+    width: 70%;
+  }
+  .tf-about-us__text h2 {
+    font-size: 34px;
+  }
+}
+@media (max-width: 575px) {
+  .tf-about-us__img span {
+    height: 279px;
+    width: 279px;
+    right: 260px;
+  }
+
+  .tf-about-us__img img {
+    width: 60%;
+  }
+  .tf-about-us__text h2 {
+    font-size: 24px;
+  }
+  .tf-about-us__lists .tf-about-us__list {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
