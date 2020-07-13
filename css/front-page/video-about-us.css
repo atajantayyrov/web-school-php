@@ -85,10 +85,62 @@
   }
 }
 @media (max-width: 1199px) {
+  .tf-video-about-us__video video {
+    width: 100%;
+    height: 350px;
+  }
+  .tf-video-about-us__circle {
+    left: 730px;
+  }
+  .tf-video-about-us__text h2 {
+    font-size: 50px;
+  }
+  .tf-video-about-us__text p {
+    font-size: 16px;
+  }
 }
 @media (max-width: 991px) {
+  .tf-video-about-us__video video {
+    width: 100%;
+    height: 250px;
+  }
+  .tf-video-about-us__circle {
+    left: 530px;
+  }
+  .tf-video-about-us__text h2 {
+    text-align: center;
+    font-size: 30px;
+  }
+  .tf-video-about-us__text p {
+    text-align: center;
+    font-size: 14px;
+  }
+  .tf-video-about-us__content {
+    padding-left: 0;
+  }
 }
 @media (max-width: 767px) {
+  .tf-video-about-us__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .tf-video-about-us__video {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .tf-video-about-us__content {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .tf-video-about-us__video video {
+    margin-bottom: 20px;
+  }
 }
 @media (max-width: 575px) {
+  .tf-video-about-us__video video {
+    width: 100%;
+    height: 150px;
+  }
 }
