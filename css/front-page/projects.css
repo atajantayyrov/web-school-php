@@ -113,3 +113,63 @@
   font-size: 12px;
   margin-right: 5px;
 }
+
+@media (max-width: 1670px) {
+}
+@media (max-width: 1500px) {
+}
+@media (max-width: 1400px) {
+}
+@media (max-width: 1300px) {
+}
+@media (max-width: 1199px) {
+  .tf-projects__title h2 {
+    font-size: 50px;
+  }
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 767px) {
+  .tf-projects__title h2 {
+    font-size: 30px;
+  }
+  .tf-sidemenu__title h3 {
+    font-size: 24px;
+  }
+  .tf-projects__link {
+    font-size: 30px;
+  }
+}
+@media (max-width: 575px) {
+  .tf-projects__wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  .tf-projects__list {
+    display: flex;
+    align-items: center;
+    padding-right: 0;
+  }
+  .tf-projects__item {
+    flex: 0 0 calc(66.6666% - 30px);
+    max-width: calc(66.6666% - 30px);
+  }
+  .tf-projects__menu {
+    padding: 0;
+  }
+  .tf-sidemenu__link {
+    font-size: 16px;
+  }
+  .tf-projects__title h2 {
+    font-size: 24px;
+  }
+  .tf-sidemenu__title h3 {
+    font-size: 18px;
+  }
+  .tf-projects__title p {
+    font-size: 18px;
+  }
+  .tf-projects__link {
+    font-size: 20px;
+  }
+}
