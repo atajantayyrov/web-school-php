@@ -15,7 +15,10 @@
               </a>
             </div>
           </div>
-          <nav class="tf-nav">
+          <a href="#!" class="tf-mobile-button" id="mobileButton">
+          <i class="fa fa-bars" aria-hidden="true"></i>
+          </a>
+          <nav class="tf-nav" id="tfNav">
             <ul class="tf-nav__list">
               <li class="tf-nav__item">
                 <a href="#!" class="tf-nav__link">Biz Hakda</a>
@@ -37,6 +40,9 @@
                   >Jaň ediň <i class="fa fa-phone"></i
                 ></a>
               </li>
+              <li class="tf-nav__item tf-nav_close"><a href="#!" class="tf-nav__link" id="closeNav">
+              <i class="fa fa-times-circle" aria-hidden="true"></i>
+              </a></li>
             </ul>
           </nav>
         </div>

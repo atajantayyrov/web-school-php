@@ -25,22 +25,22 @@
     width: 1140px;
   }
 }
-@media (max-width: 1199pxpx) {
+@media (max-width: 1199px) {
   .tf-container {
     width: 960px;
   }
 }
-@media (max-width: 991pxpx) {
+@media (max-width: 991px) {
   .tf-container {
     width: 720px;
   }
 }
-@media (max-width: 767pxpx) {
+@media (max-width: 767px) {
   .tf-container {
     width: 540px;
   }
 }
-@media (max-width: 575pxpx) {
+@media (max-width: 575px) {
   .tf-container {
     width: 100%;
   }
