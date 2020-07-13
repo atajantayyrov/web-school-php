@@ -157,3 +157,50 @@
   border: none;
   outline: none;
 }
+
+@media (max-width: 1670px) {
+}
+@media (max-width: 1500px) {
+}
+@media (max-width: 1400px) {
+}
+@media (max-width: 1300px) {
+}
+@media (max-width: 1199px) {
+  .tf-contact-us__col h2 {
+    font-size: 30px;
+  }
+  .tf-contact-us__col h2 span {
+    font-size: 40px;
+  }
+}
+@media (max-width: 991px) {
+  .tf-contact-us__col h2 {
+    font-size: 26px;
+  }
+  .tf-contact-us__col h2 span {
+    font-size: 34px;
+  }
+}
+@media (max-width: 767px) {
+  .tf-contact-us__col h2 {
+    font-size: 16px;
+  }
+  .tf-contact-us__col h2 span {
+    font-size: 24px;
+  }
+  .tf-contact-us__form h3 {
+    font-size: 22px;
+  }
+  .tf-form__select,
+  .tf-form__input {
+    width: 70%;
+    font-size: 20px;
+  }
+  .tf-form__submit {
+    width: 70%;
+    font-size: 24px;
+  }
+}
+@media (max-width: 575px) {
+}
