@@ -78,10 +78,28 @@
   }
 }
 @media (max-width: 1199px) {
+  .tf-advantages__item {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .tf-advantages__icon {
+    font-size: 70px;
+  }
+  .tf-advantages__text {
+    margin-bottom: 40px;
+    /*  */
+  }
 }
 @media (max-width: 991px) {
 }
 @media (max-width: 767px) {
 }
 @media (max-width: 575px) {
+  .tf-advantages__item {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .tf-advantages__icon {
+    font-size: 50px;
+  }
 }

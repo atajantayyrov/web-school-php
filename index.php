@@ -18,8 +18,8 @@
     <?php include 'web-parts/header.php'; ?>
     <main class="main">
       <?php include 'web-parts/masthead.php'; ?>
-      <!-- <?php include 'web-parts/advantages.php'; ?>
-      <?php include 'web-parts/about-us.php'; ?>
+      <?php include 'web-parts/advantages.php'; ?>
+      <!-- <?php include 'web-parts/about-us.php'; ?>
       <?php include 'web-parts/advantages-colored.php'; ?>
       <?php include 'web-parts/slogan.php'; ?>
       <?php include 'web-parts/video-about-us.php'; ?>
