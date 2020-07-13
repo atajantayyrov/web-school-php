@@ -58,3 +58,36 @@
   font-size: 24px;
   margin: 0;
 }
+
+@media (max-width: 1670px) {
+}
+@media (max-width: 1500px) {
+}
+@media (max-width: 1400px) {
+}
+@media (max-width: 1300px) {
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+  .tf-slogan__text h3 {
+    font-size: 24px;
+  }
+  .tf-slogan__text h2 {
+    font-size: 40px;
+  }
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 575px) {
+  .tf-slogan__text h3 {
+    font-size: 20px;
+  }
+  .tf-slogan__text h2 {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-size: 28px;
+  }
+  .tf-slogan__text p {
+    font-size: 16px;
+  }
+}
