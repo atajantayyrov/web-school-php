@@ -10,6 +10,8 @@
   /* height: 100%; */
 }
 .tf-about-us__img {
+  display: flex;
+  align-items: flex-end;
   position: relative;
   flex: 0 0 33.3333%;
   max-width: 33.3333%;
@@ -30,6 +32,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  padding-left: 40px;
 }
 .tf-about-us__text h2 {
   font-size: 60px;
@@ -72,7 +75,6 @@
 }
 .tf-about-us__img img {
   width: 100%;
-  margin: 50px 50px -5px -50px;
   z-index: 1;
   position: relative;
 }
@@ -86,24 +88,46 @@
 @media (max-width: 1300px) {
 }
 @media (max-width: 1199px) {
+  .tf-about-us__img span {
+    height: 500px;
+    width: 500px;
+    top: 160px;
+    right: 100px;
+  }
+  .tf-about-us__text {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .tf-about-us__lists .tf-about-us__list {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
 }
 @media (max-width: 991px) {
   .tf-about-us__img {
     flex: 0 0 100%;
     max-width: 100%;
+    order: 2;
+    justify-content: center;
   }
   .tf-about-us__img img {
-    width: 80%;
+    width: auto;
+    height: 300px;
   }
   .tf-about-us__img span {
-    height: 690px;
-    width: 690px;
-    right: 570px;
+    height: 400px;
+    width: 400px;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: -150px;
+    margin: auto;
   }
   .tf-about-us__text {
     flex: 0 0 100%;
     max-width: 100%;
-    padding-top: 40px;
+    padding-left: 0;
+    order: 1;
   }
   .tf-about-us__text h2 {
     font-size: 50px;
@@ -112,27 +136,26 @@
 }
 @media (max-width: 767px) {
   .tf-about-us__img span {
-    height: 479px;
-    width: 479px;
-    right: 430px;
   }
 
   .tf-about-us__img img {
-    width: 70%;
   }
   .tf-about-us__text h2 {
     font-size: 34px;
   }
+  .tf-about-us__text {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
 }
 @media (max-width: 575px) {
   .tf-about-us__img span {
-    height: 279px;
-    width: 279px;
-    right: 260px;
+    height: 260px;
+    width: 260px;
   }
 
   .tf-about-us__img img {
-    width: 60%;
+    height: 200px;
   }
   .tf-about-us__text h2 {
     font-size: 24px;

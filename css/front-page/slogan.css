@@ -70,6 +70,9 @@
 @media (max-width: 1199px) {
 }
 @media (max-width: 991px) {
+  .tf-slogan {
+    padding: 0 20px;
+  }
   .tf-slogan__text h3 {
     font-size: 24px;
   }
