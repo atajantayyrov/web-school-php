@@ -23,6 +23,17 @@
 }
 .tf-comparison__size {
 }
+.tf-comparison__size::-webkit-scrollbar {
+  height: 6px;
+}
+.tf-comparison__size::-webkit-scrollbar-track {
+  padding: 2px;
+  background-color: #cccccc;
+}
+.tf-comparison__size::-webkit-scrollbar-thumb {
+  background-color: #616161;
+  -webkit-border-radius: 7px;
+}
 .tf-comparison__table {
   padding: 70px 0;
   display: flex;
@@ -93,13 +104,38 @@
   }
 }
 @media (max-width: 991px) {
+  .tf-comparison__size {
+    overflow-x: auto;
+  }
+  .tf-comparison__table td,
+  .tf-comparison__table th {
+    min-width: 200px;
+  }
+  .tf-comparison__table {
+    justify-content: flex-start;
+    padding: 20px 0;
+  }
 }
 @media (max-width: 767px) {
+  .tf-comparison__table td,
+  .tf-comparison__table th {
+    min-width: 150px;
+  }
+  .tf-comparison__table td {
+    font-size: 16px;
+  }
+  .tf-comparison__table th {
+    font-size: 18px;
+  }
+  .tf-comparison__table td span:nth-child(1) {
+    font-size: 18px;
+  }
   .tf-comparison__text p {
     font-size: 16px;
   }
-  .tf-comparison__size {
-    overflow-x: auto;
+
+  .tf-comparison {
+    padding: 40px 0;
   }
 }
 @media (max-width: 575px) {

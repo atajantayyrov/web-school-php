@@ -151,6 +151,13 @@
   }
 }
 @media (max-width: 767px) {
+  .tf-price-plans {
+    padding-bottom: 40px;
+  }
+  .tf-price-plans__title i {
+    font-size: 16px;
+  }
+
   .tf-price-plans__title::after {
     height: 400px;
     width: 400px;
@@ -158,12 +165,12 @@
   .tf-price-plans__title h2 {
     font-size: 34px;
   }
+
   .tf-price-plan {
     background-color: #ffffff;
     flex: 0 0 100%;
     max-width: 100%;
-    margin-right: 0px;
-    margin: -10px;
+    margin: 0;
     margin-bottom: 30px;
   }
   .tf-price-plan__list {
@@ -171,10 +178,16 @@
     padding: 0;
     margin: 0;
     margin-bottom: 40px;
-    text-align: center;
+    /* text-align: center; */
   }
 }
 @media (max-width: 575px) {
+  .tf-price-plans__wrapper {
+    margin: 0;
+  }
+  .tf-price-plans__title {
+    padding: 16px 0;
+  }
   .tf-price-plans__title h2 {
     font-size: 26px;
   }
@@ -190,5 +203,8 @@
     font-size: 16px;
     height: 34px;
     width: 34px;
+  }
+  .tf-price-plans__title::after {
+    top: -110px;
   }
 }

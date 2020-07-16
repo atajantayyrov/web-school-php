@@ -126,20 +126,20 @@
 }
 @media (max-width: 767px) {
   .tf-our-team__item {
-    flex: 0 0 100%;
-    max-width: 100%;
+    /* flex: 0 0 100%;
+    max-width: 100%; */
   }
   .tf-our-team__text h2 {
     font-size: 44px;
   }
-  .tf-our-team__text h2 {
+  .tf-our-team__text p {
     font-size: 16px;
   }
 }
 @media (max-width: 575px) {
   .tf-our-team__img img {
-    width: 156px;
-    height: 156px;
+    width: 120px;
+    height: 120px;
   }
   .tf-our-team__text h2 {
     font-size: 34px;

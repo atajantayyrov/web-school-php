@@ -41,8 +41,7 @@
                 ></a>
               </li>
               <li class="tf-nav__item tf-nav_close"><a href="#!" class="tf-nav__link" id="closeNav">
-              <i class="fa fa-times-circle" aria-hidden="true"></i> » <i class="fa fa-times" aria-hidden="true"></i>
-              <!--  -->
+               <i class="fa fa-times" aria-hidden="true"></i>
               </a></li>
             </ul>
           </nav>
