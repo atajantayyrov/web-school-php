@@ -128,10 +128,30 @@
   }
 }
 @media (max-width: 991px) {
+  .tf-projects__examples {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  .tf-projects__menu {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .tf-projects__list {
+    padding-right: 0;
+  }
 }
 @media (max-width: 767px) {
   .tf-projects__title h2 {
     font-size: 30px;
+  }
+  .tf-projects__item {
+    flex: 0 0 calc(50% - 15px);
+    max-width: calc(50% - 15px);
+    margin-left: 0;
+  }
+  .tf-projects__photo {
+    height: 200px;
   }
   .tf-sidemenu__title h3 {
     font-size: 24px;
@@ -139,23 +159,28 @@
   .tf-projects__link {
     font-size: 30px;
   }
-}
-@media (max-width: 575px) {
-  .tf-projects__wrapper {
-    display: flex;
-    justify-content: center;
-  }
   .tf-projects__list {
-    display: flex;
-    align-items: center;
+    margin: 0;
     padding-right: 0;
   }
+}
+@media (max-width: 575px) {
+  .tf-projects {
+    padding: 40px 0;
+  }
   .tf-projects__item {
-    flex: 0 0 calc(66.6666% - 30px);
-    max-width: calc(66.6666% - 30px);
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: 0;
+    margin-bottom: 16px;
+  }
+  .tf-projects__title {
+    text-align: center;
+  }
+  .tf-projects__list {
+    padding-right: 0;
   }
   .tf-projects__menu {
-    padding: 0;
   }
   .tf-sidemenu__link {
     font-size: 16px;
@@ -169,6 +194,10 @@
   .tf-projects__title p {
     font-size: 18px;
   }
+  .tf-projects__title {
+    margin-bottom: 16px;
+  }
+
   .tf-projects__link {
     font-size: 20px;
   }

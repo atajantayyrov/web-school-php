@@ -23,12 +23,12 @@
       <?php include 'web-parts/advantages-colored.php'; ?>
       <?php include 'web-parts/slogan.php'; ?>
       <?php include 'web-parts/video-about-us.php'; ?>
-      <!-- <?php include 'web-parts/projects.php'; ?>
+      <?php include 'web-parts/projects.php'; ?>
       <?php include 'web-parts/contact-us.php'; ?>
       <?php include 'web-parts/price-plans.php'; ?>
       <?php include 'web-parts/our-team.php'; ?>
       <?php include 'web-parts/comparison.php'; ?>
-      <?php include 'web-parts/footer.php'; ?> -->
+      <?php include 'web-parts/footer.php'; ?>
     </main>
     <script src="js/front-page.js"></script>
   </body>

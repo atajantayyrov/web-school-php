@@ -73,8 +73,7 @@
   font-size: 22px;
 }
 
-atajanaga,[11.07.20 07: 50] @media (max-width: 1670px) {
-
+@media (max-width: 1670px) {
 }
 @media (max-width: 1500px) {
 }
@@ -87,6 +86,9 @@ atajanaga,[11.07.20 07: 50] @media (max-width: 1670px) {
   }
 }
 @media (max-width: 1199px) {
+  .tf-comparison__text h2 {
+    font-size: 44px;
+  }
 }
 @media (max-width: 991px) {
 }

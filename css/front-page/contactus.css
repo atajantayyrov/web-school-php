@@ -175,6 +175,16 @@
   }
 }
 @media (max-width: 991px) {
+  .tf-contact-us__col {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 140px;
+    text-align: center;
+  }
   .tf-contact-us__col h2 {
     font-size: 26px;
   }
@@ -194,13 +204,22 @@
   }
   .tf-form__select,
   .tf-form__input {
-    width: 70%;
     font-size: 20px;
   }
   .tf-form__submit {
-    width: 70%;
     font-size: 24px;
   }
 }
 @media (max-width: 575px) {
+  .tf-form {
+    width: 290px;
+  }
+  .tf-contact-us__bg::before {
+    top: -500px;
+    left: -500px;
+  }
+  .tf-contact-us__bg::after {
+    right: -500px;
+    bottom: -500px;
+  }
 }

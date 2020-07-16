@@ -3,6 +3,7 @@
 .tf-slogan__wrapper {
   position: relative;
   height: 600px;
+  padding: 0 20px;
 }
 .tf-slogan__video {
   position: absolute;
@@ -71,7 +72,7 @@
 }
 @media (max-width: 991px) {
   .tf-slogan {
-    padding: 0 20px;
+    /* padding: 0 20px; */
   }
   .tf-slogan__text h3 {
     font-size: 24px;
@@ -81,6 +82,15 @@
   }
 }
 @media (max-width: 767px) {
+  .tf-about-us__list {
+    font-size: 16px;
+  }
+  .tf-slogan__wrapper {
+    height: 400px;
+  }
+  .tf-slogan__text {
+    width: 90%;
+  }
 }
 @media (max-width: 575px) {
   .tf-slogan__text h3 {

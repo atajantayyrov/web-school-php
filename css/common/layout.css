@@ -16,7 +16,7 @@
 }
 @media (max-width: 1400px) {
   .tf-container {
-    padding: 0 25px;
+    /* padding: 0 25px; */
     width: 1300px;
   }
 }

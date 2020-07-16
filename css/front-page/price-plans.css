@@ -135,8 +135,60 @@
 @media (max-width: 1199px) {
 }
 @media (max-width: 991px) {
+  .tf-price-plans__title::after {
+    height: 600px;
+    width: 600px;
+  }
+  .tf-price-plans__title h2 {
+    font-size: 40px;
+  }
+  .tf-price-plan {
+    background-color: #ffffff;
+    flex: 0 0 calc(50% - 30px);
+    max-width: calc(50% - 30px);
+    margin-right: 0;
+    margin: 10px;
+  }
 }
 @media (max-width: 767px) {
+  .tf-price-plans__title::after {
+    height: 400px;
+    width: 400px;
+  }
+  .tf-price-plans__title h2 {
+    font-size: 34px;
+  }
+  .tf-price-plan {
+    background-color: #ffffff;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-right: 0px;
+    margin: -10px;
+    margin-bottom: 30px;
+  }
+  .tf-price-plan__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 40px;
+    text-align: center;
+  }
 }
 @media (max-width: 575px) {
+  .tf-price-plans__title h2 {
+    font-size: 26px;
+  }
+  .tf-price-plans__title::after {
+    height: 180px;
+    width: 180px;
+    top: -100px;
+  }
+  .tf-price-plan__amount {
+    font-size: 40px;
+  }
+  .tf-price-plan__currency {
+    font-size: 16px;
+    height: 34px;
+    width: 34px;
+  }
 }
