@@ -21,6 +21,8 @@
   font-family: "Pt Sans", "Regular";
   color: #2c2c2c;
 }
+.tf-comparison__size {
+}
 .tf-comparison__table {
   padding: 70px 0;
   display: flex;
@@ -93,6 +95,12 @@
 @media (max-width: 991px) {
 }
 @media (max-width: 767px) {
+  .tf-comparison__text p {
+    font-size: 16px;
+  }
+  .tf-comparison__size {
+    overflow-x: auto;
+  }
 }
 @media (max-width: 575px) {
 }

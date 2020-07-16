@@ -187,6 +187,12 @@
   .tf-footer__logo {
     padding-bottom: 20px;
   }
+  .tf-copyrights {
+    height: 60px;
+  }
+  .tf-copyrights p {
+    font-size: 16px;
+  }
 }
 @media (max-width: 575px) {
   .tf-footer__logo-circle {

@@ -143,4 +143,7 @@
   }
 }
 @media (max-width: 575px) {
+  .tf-advantages__wrapper {
+    margin: 0 -15px;
+  }
 }

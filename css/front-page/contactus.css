@@ -175,6 +175,9 @@
   }
 }
 @media (max-width: 991px) {
+  .tf-contact-us {
+    padding: 60px 0;
+  }
   .tf-contact-us__col {
     flex: 0 0 100%;
     max-width: 100%;
@@ -182,17 +185,22 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 140px;
+    height: 100%;
     text-align: center;
   }
   .tf-contact-us__col h2 {
-    font-size: 26px;
+    font-size: 24px;
+    margin-bottom: 40px;
   }
   .tf-contact-us__col h2 span {
-    font-size: 34px;
+    font-size: 32px;
   }
 }
 @media (max-width: 767px) {
+  .tf-contact-us {
+    height: 100%;
+  }
+
   .tf-contact-us__col h2 {
     font-size: 16px;
   }
@@ -204,10 +212,21 @@
   }
   .tf-form__select,
   .tf-form__input {
-    font-size: 20px;
+    font-size: 16px;
   }
   .tf-form__submit {
-    font-size: 24px;
+    font-size: 16px;
+  }
+  .tf-form__select-with-button i {
+    font-size: 30px;
+    top: 9px;
+  }
+  .tf-form__input::placeholder {
+    font-size: 16px;
+  }
+  .tf-form__select,
+  .tf-form__input {
+    height: 50px;
   }
 }
 @media (max-width: 575px) {
@@ -221,5 +240,8 @@
   .tf-contact-us__bg::after {
     right: -500px;
     bottom: -500px;
+  }
+  .tf-contact-us__row {
+    height: 80%;
   }
 }
