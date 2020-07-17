@@ -7,7 +7,7 @@
         </div>
         <div class="tf-about-us__text">
             <h2>Bizde we diňe bizde!</h2> 
-            <p>sit amet consectetur adipisicing elit. Officiis corrupti eveniet corporis ipsam alias quidem enim eligendi omnis natus, facere ad. Suscipit recusandae eum autem nostrum dolor tenetur dicta dignissimos?
+            <p>Bölümleriň, taslamalaryň, hemişelik işleriň we bäsleşikleriň bölümleriniň hem erkin işleýänler üçin peydaly boljakdygyna ynanýarys.
             </p>
             <div class="tf-about-us__lists">
             <ul class="tf-about-us__list">

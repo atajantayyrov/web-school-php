@@ -10,7 +10,7 @@
             <div class="tf-slogan__text">
               <h3>Dünýä standartlarynda</h3>
               <h2>Modern dizaýn</h2>
-              <p>Lead paragraph. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.</p>
+              <p>Sosial ulgamlarda marka hasaplaryny döredýäris, mazmuny üpjün edýäris, dolandyrýarys we öňe sürýäris. Şeýlelik bilen, müşderilerimiziň ähli zerurlyklaryny bir topar bilen ýapýarys.</p>
             </div>
           </div>
         </div>

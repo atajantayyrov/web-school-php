@@ -1,9 +1,9 @@
 <section class="tf-masthead">
         <div class="tf-container tf-masthead__wrapper">
           <div class="tf-masthead__text">
-            <h2>Gysga wagta, amatly baha</h2>
+            <h2>Gysga wagtda, amatly baha</h2>
             <h1>ussat çozgütler</h1>
-            <p>
+            <p>Biz tomaşaçylaryň ünsüni özüne çekýän we saklaýan mazmuny nädip döretmelidigini bilýäris.
               Ine, iň real islegleriň amala aşmagy uçin iň oňat şertler!
             </p>
             <a href="#!">habarlaşyň<i class="fa fa-phone"></i></a>

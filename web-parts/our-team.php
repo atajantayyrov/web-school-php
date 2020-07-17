@@ -4,7 +4,7 @@
         <div class="tf-our-team__wrapper">
         <div class="tf-our-team__text">
                         <h2>BIziň kommandamyz</h2>
-                        <p> Ajayyp degişme, tagam we dizaýn bilen dostlukly, yakymly toparymyz bar!<br>
+                        <p> Ajayyp degişme, tagam we dizaýn bilen dostlukly, yakymly toparymyz bar!
                         Işimizde her jikme-jiklik möhümdir.<br>
                         Üstünlüge ýetmäge kömek ederis.<br>
                         Diňe et! Şu gün başla, indi başla!!!</p>

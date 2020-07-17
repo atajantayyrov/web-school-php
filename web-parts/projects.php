@@ -72,13 +72,13 @@
             <div class="tf-projects__menu">
               <div class="tf-sidemenu">
                 <div class="tf-sidemenu__title">
-                  <h3>Website types</h3>
+                  <h3>Web sahypasynyň görnüşleri</h3>
                 </div>
                 <ul class="tf-sidemenu__list">
-                  <li class="tf-sidemenu__item"><a href="#!" class="tf-sidemenu__link">Landing</a></li>
-                  <li class="tf-sidemenu__item"><a href="#!" class="tf-sidemenu__link">Cooperative Website</a></li>
-                  <li class="tf-sidemenu__item"><a href="#!" class="tf-sidemenu__link">Ecommerce</a></li>
-                  <li class="tf-sidemenu__item"><a href="#!" class="tf-sidemenu__link">Lorem Ipsum</a></li>
+                  <li class="tf-sidemenu__item"><a href="#!" class="tf-sidemenu__link">Gonuş sahypasy</a></li>
+                  <li class="tf-sidemenu__item"><a href="#!" class="tf-sidemenu__link">Şahsy web sahypasy</a></li>
+                  <li class="tf-sidemenu__item"><a href="#!" class="tf-sidemenu__link">Telekeçilik</a></li>
+                  <li class="tf-sidemenu__item"><a href="#!" class="tf-sidemenu__link">Telekeçiligi dolandyrmak</a></li>
                 </ul>
               </div>
             </div>
