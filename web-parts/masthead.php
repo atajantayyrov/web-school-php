@@ -4,10 +4,7 @@
             <h2>Gysga wagta, amatly baha</h2>
             <h1>ussat çozgütler</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
-              earum ea reprehenderit adipisci reiciendis perspiciatis cumque
-              labore, eos iusto laboriosam, quos distinctio quia impedit!
-              Asperiores minus molestiae numquam quas earum!
+              Ine, iň real islegleriň amala aşmagy uçin iň oňat şertler!
             </p>
             <a href="#!">habarlaşyň<i class="fa fa-phone"></i></a>
           </div>

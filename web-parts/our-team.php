@@ -4,7 +4,10 @@
         <div class="tf-our-team__wrapper">
         <div class="tf-our-team__text">
                         <h2>BIziň kommandamyz</h2>
-                        <p> Etiam feugiat pellentesque odio, non placerat felis sagittis vitae. Praesent tristique sagittis urna et vestibulum. Suspendisse nulla libero, posuere non tristique quis, pretium sed justo.</p>
+                        <p> Ajayyp degişme, tagam we dizaýn bilen dostlukly, yakymly toparymyz bar!<br>
+                        Işimizde her jikme-jiklik möhümdir.<br>
+                        Üstünlüge ýetmäge kömek ederis.<br>
+                        Diňe et! Şu gün başla, indi başla!!!</p>
                     </div>
             <div class="tf-our-team__item">
                 <div class="tf-our-team__main">
@@ -28,7 +31,7 @@
             <div class="tf-our-team__item">
                 <div class="tf-our-team__main">
                 <div class="tf-our-team__img">
-                    <img src="img/staff.png" alt="img1" />   
+                    <img src="img/atajan.jpg" alt="img1" />   
                 </div>
                     <div class="tf-our-team__name">
                         <h2>Atajan</h2>

@@ -11,7 +11,10 @@
 
               <div class="tf-video-about-us__text">
                 <h2>biz hakda video</h2>
-                <p>Etiam feugiat pellentesque odio, non placerat felis sagittis vitae. Praesent tristique sagittis urna et vestibulum. Suspendisse nulla libero, posuere non tristique quis, pretium sed justo. Maecenas ornare venenatis velit, sed ullamcorper mi porttitor sed. Donec semper finibus dolor, nec fermentum enim bibendum sed. Aliquam dapibus velit augue, nec mollis sapien ullamcorper aliquam. Mauris eu erat in metus volutpat condimentum. Vestibulum vitae leo fermentum, rhoncus mi at, hendrerit lorem.</p>
+                <p>Bu wideo hemme zadyň biziň üçin nähili işleyändiginiň gowy mysalydyr.<br>
+                "Eliň yeňi we galplyk yok!"<br>
+                Hemme zat biziň bilen adalatly!<br>
+                Akyl we aň bilen işleýäris!!!</p>
               </div>
               <span class="tf-video-about-us__circle"></span>
             </div>

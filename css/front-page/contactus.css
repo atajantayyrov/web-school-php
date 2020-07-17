@@ -133,6 +133,26 @@
   pointer-events: none;
 }
 
+.tf-form__input::-webkit-input-placeholder {
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.tf-form__input::-moz-placeholder {
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.tf-form__input:-ms-input-placeholder {
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.tf-form__input::-ms-input-placeholder {
+  font-size: 24px;
+  color: #ffffff;
+}
+
 .tf-form__input::placeholder {
   font-size: 24px;
   color: #ffffff;
@@ -222,6 +242,18 @@
   .tf-form__select-with-button i {
     font-size: 30px;
     top: 9px;
+  }
+  .tf-form__input::-webkit-input-placeholder {
+    font-size: 16px;
+  }
+  .tf-form__input::-moz-placeholder {
+    font-size: 16px;
+  }
+  .tf-form__input:-ms-input-placeholder {
+    font-size: 16px;
+  }
+  .tf-form__input::-ms-input-placeholder {
+    font-size: 16px;
   }
   .tf-form__input::placeholder {
     font-size: 16px;

@@ -2,7 +2,11 @@
     <div class="tf-container">
         <div class="tf-comparison__text">
             <h2>Gymmatmy?</h2>
-            <p>Etiam feugiat pellentesque odio, non placerat felis sagittis vitae. Praesent tristique sagittis urna et<br> vestibulum. Suspendisse nulla libero, posuere non tristique quis, pretium sed justo.</p>
+            <p>El-yeterli bahalarymyz bar.<br>
+            Eziz müşderilerimiz bilen hemişe duşuşyarys!<br>
+            Biz hemme zada täzeçe garaýarys!<br>
+            Biz hiç zat wada bermeýäris.<br>
+            Galyberse-de, biz bolmasa kim?!</p>
         </div>
         <div class="tf-comparison__size">
             <table class="tf-comparison__table">

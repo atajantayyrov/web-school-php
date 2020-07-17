@@ -10,7 +10,7 @@
             </div>
             <div class="tf-footer__text">
                 <h2><span>Turkmen</span><span>Freelancer</span></h2>
-                <p>Etiam feugiat pellentesque odio, non placerat felis sagittis vitae. Praesent tristique sagittis urna et vestibulum. Suspendisse nulla libero, posuere non tristique quis, pretium sed justo.</p>
+                <p>Seni yok edýän zady, yok et!<br>Bil Geytsiň aýdyşy yaly:<br>"Dollar diwan bilen bäşinji nokadyň arasynda süýşmez".</p>
             </div>
             <div class="tf-footer__icon">
                 <div class="tf-footer__icon-wrapper">
