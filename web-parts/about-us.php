@@ -7,18 +7,18 @@
         </div>
         <div class="tf-about-us__text">
             <h2>Bizde we diňe bizde!</h2> 
-            <p>Bölümleriň, taslamalaryň, hemişelik işleriň we bäsleşikleriň bölümleriniň hem erkin işleýänler üçin peydaly boljakdygyna ynanýarys.
+            <p>Mugt web dizaýny, ykjam optimizasiýa we amatly baha. "Türkmen Freelancer" studiýasynyň işine ynanyp, müşderileri hakykatdanam özüne çekýän ýokary hilli web sahypasyny alarsyňyz.
             </p>
             <div class="tf-about-us__lists">
             <ul class="tf-about-us__list">
-                <li class="tf-about-us__list-item">Girdejili goyumlar</li>
-                <li class="tf-about-us__list-item">Araçäksiz, soňu bolmadyk</li>
-                <li class="tf-about-us__list-item">Telekeçilik bilen meşgullanýanlar üçin</li>
+                <li class="tf-about-us__list-item">Sahypany ösdürmek </li>
+                <li class="tf-about-us__list-item">Jübi sahypasyny optimizasiýa</li>
+                <li class="tf-about-us__list-item">Howpsuzlyk ulgamyny gurmak</li>
             </ul>
             <ul class="tf-about-us__list">
-                <li class="tf-about-us__list-item">Şahsy ösüş </li>
-                <li class="tf-about-us__list-item">Bahalary deňeşdirmek arkaly belli</li>
-                <li class="tf-about-us__list-item">Köp we has köp...</li>
+                <li class="tf-about-us__list-item">Blogy gurmak we düzmek </li>
+                <li class="tf-about-us__list-item">Tizlik we howpsuzlyk</li>
+                <li class="tf-about-us__list-item">Kabul ederlikli bahalar</li>
             </ul>
             </div>
         </div>

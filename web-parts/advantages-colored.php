@@ -6,10 +6,10 @@
                 <i class="fa fa-snowflake-o" aria-hidden="true"></i>
               </div>
               <div class="tf-advantages__title">
-                <h3>Lorem ipsum, dolor sit </h3>
+                <h3>Hil </h3>
               </div>
               <div class="tf-advantages__text">
-                <p>amet consectetur adipisicing elit. Sit laboriosam aspernatur vel aliquam accusantium necessitatibus fuga ullam quos dicta quia laborum mollitia eum, incidunt porro harum consequatur? Iusto, ipsa neque.</p>
+                <p>Pul we täze müşderiler getirmek üçin sahypaňyz bilen gyzyklanýarys. Şonuň üçin diňe ýokary hilli, satuw we döwrebap saýtlar ýasaýarys.</p>
               </div>
             </div>
             <div class="tf-advantages__item">
@@ -17,10 +17,10 @@
                 <i class="fa fa-ravelry" aria-hidden="true"></i>
               </div>
               <div class="tf-advantages__title">
-                <h3>Lorem ipsum, dolor sit </h3>
+                <h3>Girdeji gazanalyň</h3>
               </div>
               <div class="tf-advantages__text">
-                <p>amet consectetur adipisicing elit. Sit laboriosam aspernatur vel aliquam accusantium necessitatibus fuga ullam quos dicta quia laborum mollitia eum, incidunt porro harum consequatur? Iusto, ipsa neque.</p>
+                <p>Netijeli, satylýan we özüne çekiji web sahypasynyň nähili bolmalydygyny hakykatdanam bilýäris.</p>
               </div>
             </div>
             <div class="tf-advantages__item">
@@ -28,10 +28,10 @@
                 <i class="fa fa-grav" aria-hidden="true"></i>
               </div>
               <div class="tf-advantages__title">
-                <h3>Lorem ipsum, dolor sit </h3>
+                <h3>Amatlylyk</h3>
               </div>
               <div class="tf-advantages__text">
-                <p>amet consectetur adipisicing elit. Sit laboriosam aspernatur vel aliquam accusantium necessitatibus fuga ullam quos dicta quia laborum mollitia eum, incidunt porro harum consequatur? Iusto, ipsa neque.</p>
+                <p>Býudjetiňize garamazdan ulanyjy üçin amatly web sahypasyny alarsyňyz. Sahypalarymyz ulanyjylar üçin içgin we çylşyrymly gurluşy ýok.</p>
               </div>
             </div>
             <div class="tf-advantages__item">
@@ -39,10 +39,10 @@
                 <i class="fa fa-anchor" aria-hidden="true"></i>
               </div>
               <div class="tf-advantages__title">
-                <h3>Lorem ipsum, dolor sit </h3>
+                <h3>Kän däl </h3>
               </div>
               <div class="tf-advantages__text">
-                <p>amet consectetur adipisicing elit. Sit laboriosam aspernatur vel aliquam accusantium necessitatibus fuga ullam quos dicta quia laborum mollitia eum, incidunt porro harum consequatur? Iusto, ipsa neque.</p>
+                <p>Sahypaňyzyň dizaýnynda artykmaç zat bolmaz. Diňe täsirli we sahypanyň işleýşine zyýan bermeýän anyk maksatlary ýerine ýetirýän elementler.</p>
               </div>
             </div>
           </div>

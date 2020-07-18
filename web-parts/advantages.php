@@ -7,10 +7,10 @@
 
               </div>
               <div class="tf-advantages__title">
-                <h3>Lorem ipsum, dolor sit </h3>
+                <h3>Häzirki zaman web dizaýny </h3>
               </div>
               <div class="tf-advantages__text">
-                <p>amet consectetur adipisicing elit. Sit laboriosam aspernatur vel aliquam accusantium necessitatibus fuga ullam quos dicta quia laborum mollitia eum, incidunt porro harum consequatur? Iusto, ipsa neque.</p>
+                <p>Müşderileriňizi özüne çekjek satuw we ulanyjy üçin amatly dizaýn bilen özüne çekiji web sahypalaryny döredýäris.</p>
               </div>
             </div>
             <div class="tf-advantages__item">
@@ -18,10 +18,10 @@
                 <i class="fa fa-ravelry" aria-hidden="true"></i>
               </div>
               <div class="tf-advantages__title">
-                <h3>Lorem ipsum, dolor sit </h3>
+                <h3>Jübi optimizasiýasy </h3>
               </div>
               <div class="tf-advantages__text">
-                <p>amet consectetur adipisicing elit. Sit laboriosam aspernatur vel aliquam accusantium necessitatibus fuga ullam quos dicta quia laborum mollitia eum, incidunt porro harum consequatur? Iusto, ipsa neque.</p>
+                <p>Sahypalarymyzyň her biri islendik ykjam enjam üçin optimallaşdyryldy.</p>
               </div>
             </div>
             <div class="tf-advantages__item">
@@ -29,10 +29,10 @@
                 <i class="fa fa-grav" aria-hidden="true"></i>
               </div>
               <div class="tf-advantages__title">
-                <h3>Lorem ipsum, dolor sit </h3>
+                <h3>Tizlik we howpsuzlyk</h3>
               </div>
               <div class="tf-advantages__text">
-                <p>amet consectetur adipisicing elit. Sit laboriosam aspernatur vel aliquam accusantium necessitatibus fuga ullam quos dicta quia laborum mollitia eum, incidunt porro harum consequatur? Iusto, ipsa neque.</p>
+                <p>Sahypalaryň işini çaltlaşdyrmagy we zyýanly hüjümlerden ygtybarly goramagy bilýäris.</p>
               </div>
             </div>
             <div class="tf-advantages__item">
@@ -40,10 +40,10 @@
                 <i class="fa fa-anchor" aria-hidden="true"></i>
               </div>
               <div class="tf-advantages__title">
-                <h3>Lorem ipsum, dolor sit </h3>
+                <h3>Kabul ederlikli bahalar </h3>
               </div>
               <div class="tf-advantages__text">
-                <p>amet consectetur adipisicing elit. Sit laboriosam aspernatur vel aliquam accusantium necessitatibus fuga ullam quos dicta quia laborum mollitia eum, incidunt porro harum consequatur? Iusto, ipsa neque.</p>
+                <p>Býudjetiňize garamazdan, islendik maksat bilen diňe ýokary hilli web sahypasyny alarsyňyz.</p>
               </div>
             </div>
           </div>

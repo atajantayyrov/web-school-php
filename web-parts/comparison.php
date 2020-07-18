@@ -2,11 +2,7 @@
     <div class="tf-container">
         <div class="tf-comparison__text">
             <h2>Gymmatmy?</h2>
-            <p>El-yeterli bahalarymyz bar.<br>
-            Eziz müşderilerimiz bilen hemişe duşuşyarys!<br>
-            Biz hemme zada täzeçe garaýarys!<br>
-            Biz hiç zat wada bermeýäris.<br>
-            Galyberse-de, biz bolmasa kim?!</p>
+            <p>Sahypalarymyzyň hersiniň özboluşly artykmaçlyklary bar. Maksatlaryňyza baglylykda iň täsirli sahypany saýlarys. Şonda ol siziň garaşýan netijäňizi getirip biler.</p>
         </div>
         <div class="tf-comparison__size">
             <table class="tf-comparison__table">
@@ -43,7 +39,8 @@
                 </table>
             </div>
         <div class="tf-comparison__text">
-            <p>Etiam feugiat pellentesque odio, non placerat felis sagittis vitae. Praesent tristique sagittis urna et<br> vestibulum. Suspendisse nulla libero, posuere non tristique quis, pretium sed justo.</p>
+            <p>Bu etapda, saýtda näme bolmalydygyny, goşmaça näme goşmak isleýändigiňizi we işe girizilenden soň näme ret edip ýa-da edip biljekdigiňizi bilýäris.
+</p>
         </div>
     </div>
 </section>

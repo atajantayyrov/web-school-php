@@ -11,10 +11,7 @@
 
               <div class="tf-video-about-us__text">
                 <h2>biz hakda video</h2>
-                <p>Bu wideo hemme zadyň biziň üçin nähili işleyändiginiň gowy mysalydyr.<br>
-                "Eliň yeňi we galplyk yok!"<br>
-                Hemme zat biziň bilen adalatly!<br>
-                Akyl we aň bilen işleýäris!!!</p>
+                <p>Internetde ösüşiň başynda bir iş üçin zerur hyzmatlary ýerine ýetirmäge kömek etjek hünärmenler işleýär. Nädip işleýändigimizi şul wideo-da jikme-jik seredip bilersiňiz.</p>
               </div>
               <span class="tf-video-about-us__circle"></span>
             </div>
